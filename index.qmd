@@ -15,6 +15,6 @@ about:
 
 Welcome!
 
-I am a current MGEM student set to graduate at the end of April.
+I hold a Bachelor's degree in Geography and a minor in GIS and Geomatics from the University of Guelph. Currently, I am pursuing a Master's of Geomatics for Environmental Management (MGEM) in which I am expanding my skills in spatial analysis, remote sensing, coding and statistics. I am also working with a sustainable forestry company to better understand wildfire modeling in British Columbia.
 
-Write something about myself, very exciting.
+When I am not studying, I enjoy collecting rocks, hiking, cooking and swimming.
